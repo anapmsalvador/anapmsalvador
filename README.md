@@ -1,4 +1,4 @@
  Hi, I’m Patty! 👋
 
-I am a web developer. My tools of the trade are Elixir, and React. 
+I am a web developer. My tools of the trade are Javascript, Elixir, and React. 
 
